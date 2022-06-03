@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to YCJYY's blog
 
 You can use the [editor on GitHub](https://github.com/ycjyy/ycjyy.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
